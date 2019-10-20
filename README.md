@@ -1,4 +1,4 @@
-# MY PORTFOLIO (Go out BSDK)
+# MY PORTFOLIO
 
 **This is a Portfolio made with some helps from GitHub**
 
